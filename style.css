@@ -1,0 +1,55 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.navbar{
+    text-align:center;
+    background-color:black;
+    color:white;
+    padding:20px;
+}
+li{
+    display:inline;
+    color:grey;
+}
+li:hover{
+    color:white;
+    cursor:pointer;
+}
+ul{
+    padding-top:10px;
+}
+
+.products{
+    text-align:center;
+    margin:30px;
+}
+.one{
+    display:inline-block;
+    border-style:solid;
+    border-color:black;
+    text-align:center;
+}
+.two{
+    background-color:black;
+    color:white;
+    margin:5px;
+    padding:10px;
+    cursor:pointer;
+}
+p{
+    margin-top:10px;
+}
+.contact{
+    text-align:center;
+    background-color:black;
+    color:white;
+    padding:40px;
+}
+.search{
+    text-align:center;
+    width:45%;
+    background-color:yellow;
+}
+
